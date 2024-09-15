@@ -1,0 +1,5 @@
+train: /home/chaitanya/Academics/3rd Semester/DLRV/project/data/images/train
+val: /home/chaitanya/Academics/3rd Semester/DLRV/project/data/images/val  
+
+nc: 1
+names: ['empty_space']
