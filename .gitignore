@@ -1,0 +1,5 @@
+.history/
+.vscode/
+code/runs/
+trained_models/
+data/
